@@ -17,4 +17,4 @@ What to expect
 
 When run.analysis.R is executed, a file "tidy_data.txt" will be produced. The file contains data sets of the average of each means and stds and are sorted by subject and activity.
 
-https://cloud.githubusercontent.com/assets/18753521/16119008/1e597d24-340c-11e6-9e46-189c084abb47.png
+![alt tag]"https://cloud.githubusercontent.com/assets/18753521/16119008/1e597d24-340c-11e6-9e46-189c084abb47.png"
