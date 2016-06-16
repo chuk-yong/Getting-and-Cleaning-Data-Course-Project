@@ -46,4 +46,4 @@ tidy_data <- data_mean_std %>%
 
 # add Average infront of the means and stds so we know they are averages.  Then output the tidy data
 names(tidy_data)[3:ncol(tidy_data)]<-paste("Average", names(tidy_data)[3:ncol(tidy_data)], sep = "_")
-write.table(tidy_data, file = "tidy_data.txt")
+write.table(tidy_data, file = "tidy_data.txt", row.names = FALSE)
